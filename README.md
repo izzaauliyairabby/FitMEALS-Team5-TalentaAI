@@ -13,3 +13,6 @@ Data
 - Microsoft Power BI
 - Microsoft Fabric
 - Azure SQL Database
+
+Web Apps 
+- Streamlit
