@@ -1,2 +1,3 @@
-# TalentaAI_StuntingNutrition
-Streamlit Azure Machine Learning
+# Food Recomendation System Apps for Empowering Healty Living with Smart Food Choices
+## Team 5 Skillvull x Talenta AI
+Streamlit Azure Apps Services Machine Learning
