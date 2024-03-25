@@ -1,0 +1,7 @@
+azure-search-documents==11.4.0
+streamlit
+transformers
+torch
+scikit-learn==1.4.1.post1
+joblib
+matplotlib
