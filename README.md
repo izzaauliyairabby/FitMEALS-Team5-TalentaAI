@@ -32,5 +32,3 @@ Pada formulir Pengumpulan Final Project, diharapkan untuk mengisi beberapa data 
 4. Link Slide Pitching : https://docs.google.com/presentation/d/1j2iHS9ISjentzIpyl_GipzFY-zBIuBuXeuWZPKMa8qo/edit?usp=drive_link 
 5. Link Video Recording :
 6. Link Folder Foto Anggota Kelompok : https://drive.google.com/drive/folders/1HVXQTmmN0aU-oepy9j_GqogRKdT_9Sfr?usp=sharing
-
-"C:\Users\Acer\Downloads\WhatsApp Image 2024-03-24 at 23.18.12.jpeg"
