@@ -17,6 +17,12 @@ Data
 Web Apps 
 - Streamlit
 
+  Link Final Project :
+   AI: https://github.com/CoreX20/Fit-Meals
+   streamlit : https://fitmeals.streamlit.app/
+   Data-Power BI : https://github.com/fiqo25/FitMEALS-Food-Recommendation-System-Apps-for-Empowering-Healthy-Living-with-Smart-Food-Choices
+  
+
 Pada formulir Pengumpulan Final Project, diharapkan untuk mengisi beberapa data berikut:
 1. Judul Final Project : FitMEALS:Food Recommendation System Apps for Empowering Healthy Living with Smart Food Choices
 2. Deskripsi/Ide Solusi Final Project :
